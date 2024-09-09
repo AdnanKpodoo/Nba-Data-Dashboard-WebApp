@@ -39,7 +39,7 @@ merged_df = pd.merge(df, df2, on='school')
 st.title('NBA Analysis Draft Dashboard')
 st.subheader("Analysis Introduction")
 st.write(
-'Hello my name is Adnan Kpodo and I am an aspirirng Data Analyst who created this web app to showcase my findings in regardad to the NBA draft pick. The question I wil be answeing is what region produces the most round 1 picks.'
+'Hello my name is Adnan Kpodo and I am an aspirirng Data Analyst who created this web app to showcase my findings in regards to the NBA draft pick. The question I wil be answeing is what region produces the most round 1 picks.(This is still a work in progress :)'
          )
 
 
